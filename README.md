@@ -10,4 +10,4 @@ Not made by me
 not made by me
 
 Client Sided
-no one can see only if the other person can s
+no one can see only if the other person can see if they have the mod to
